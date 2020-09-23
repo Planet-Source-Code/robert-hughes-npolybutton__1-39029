@@ -1,0 +1,6 @@
+A N (3-20) sided regular polygon button control.  It started out as the Circular Button from Praveen Menon, went a step further and changed it to fit my needs.  It wouldn't be difficult to change it to any shaped button control, just load the array with the points.
+ 
+Enjoy!
+
+Robert
+
